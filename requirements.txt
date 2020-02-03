@@ -1,0 +1,6 @@
+pyspark
+kafka-python
+requests
+bs4
+lxml
+elasticsearch
